@@ -11,7 +11,7 @@
 
 ## Link báo cáo
 
-[Báo cáo dự án]
+[\[Báo cáo dự án\]](https://docs.google.com/document/d/1s5cN4IbYaCCUUllKtoE6jwR83nqe6EiPdy6y9OD7vRM/edit?tab=t.0)
 
 ## Các chức năng chính
 
