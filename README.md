@@ -6,7 +6,8 @@
 
 ## Thành viên nhóm 12
 
-
+**Nguyễn Hoàng Hào**
+**Lê Tiến Vũ**
 
 ## Link báo cáo
 
@@ -102,7 +103,7 @@ docker: 27.3.1
 **Step 1:** Clone this repository
 
 ```bash
-git clone 
+git clone https://github.com/hoanghaoes/LearningSystems.git
 ```
 
 **Step 2:** Create `.env` file in the root directory at the same level as `docker-compose.yml`. Copy the contents of the `.env.example` file into the `.env` file and fill in the values ​​for the environment variables.
