@@ -10,7 +10,7 @@
 
 ## Link báo cáo
 
-[Báo cáo thực hành phát triển phần mềm]
+[Báo cáo dự án]
 
 ## Các chức năng chính
 
